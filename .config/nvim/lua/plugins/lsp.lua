@@ -4,8 +4,6 @@ return {
     opts = {
       ensure_installed = {
         "jdtls",
-        "angular-language-server",
-        "typescript-language-server",
       },
     },
   },
