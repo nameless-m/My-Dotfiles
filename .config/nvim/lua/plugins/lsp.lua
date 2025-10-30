@@ -7,6 +7,8 @@ return {
         "angular-language-server",
         "typescript-language-server",
         "eslint-lsp",
+        "html-lsp",
+
       },
     },
   },
